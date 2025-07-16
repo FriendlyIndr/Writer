@@ -8,3 +8,4 @@
 - A main feed showing blogposts from followed users
 - An editor to publish blogs
 - Comments on blogposts
+- Ability to search for blogposts by tags and titles
